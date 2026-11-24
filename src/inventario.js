@@ -7,3 +7,6 @@ export function calcularTotal(productos) {
 export function eliminarProducto(productos, id) {
   return productos.filter(p => p.id !== id);
 }
+
+
+// prueba de integracion 
